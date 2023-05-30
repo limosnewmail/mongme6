@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2015
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: 
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: 
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: 
+location:
+email: 
 
 # ---------------- #
 #    Navigation    #
@@ -70,38 +70,37 @@ email: chumpma@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label:
 
   -
     href: /categories/
-    label: 分类
+    label: 
 
   -
     href: /archives/
-    label: 归档
+    label:
     mobile-hidden: true
 
   -
     href: /open-source/
-    label: 开源
+    label:
     mobile-hidden: true
 
   -
     href: /fragments/
-    label: 片段
-
+    label: 
   -
     href: /wiki/
-    label: 维基
+    label:
 
   -
     href: /links/
-    label: 链接
-    mobile-hidden: true
+    label: 
+    mobile-hidden: false
 
   -
     href: /about/
-    label: 关于
+    label: 
 
 # ---------------- #
 #       RSS        #
